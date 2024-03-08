@@ -1,0 +1,50 @@
+.principal {
+    background-color: black;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.caja {
+    background-color: mediumblue;
+    width: 470px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 5px;
+    flex-wrap: nowrap;
+}
+
+.contenedor {
+    background-color: greenyellow;
+    margin: 5px;
+    width: 33%;
+    height: 170px;
+    display: flex;
+    flex-direction: column-reverse;
+    text-align: center;
+    font-size: 50px;
+}
+
+.contenedor1 {
+    background-color: rgb(3, 205, 0);
+    margin: 5px;
+    height: 10%;
+    text-align: center;
+    font-size: 50px;
+}
+
+.c1 {
+    background-color: mediumblue;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+}
+.contenedor2 {
+    background-color: rgb(3, 205, 0);
+    margin: 5px;
+    height: 15.5%;
+    text-align: center;
+    font-size: 50px;
+}
+
